@@ -1057,6 +1057,11 @@ background: radial-gradient(#eeaeca, #94bbe9);
         height: auto;
     }
 }
+
+.textual-box {
+    font-size: 30px;
+    text-align: center;
+}
 @media(max-aspect-ratio: 16/9){
     .back-video{
         width: auto;
